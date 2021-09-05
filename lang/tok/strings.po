@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2021-09-04 18:57-0700\n"
-"PO-Revision-Date: 2021-09-04 19:15-0700\n"
+"PO-Revision-Date: 2021-09-04 20:22-0700\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: tok\n"
@@ -267,6 +267,7 @@ msgstr "musi li ken awen e sona lon lipu li ken kama sin tan sona awen"
 #: script/engine.js:304
 msgid "or migrating computers"
 msgstr ""
+"ni li pona tawa ni: musi li ken awen lon ilo sina li ken tawa ilo ante sina"
 
 #: script/engine.js:308
 msgid "export"
@@ -526,15 +527,15 @@ msgstr "selo soweli"
 
 #: script/localization.js:14 script/path.js:135
 msgid "iron"
-msgstr "kiwen walo"
+msgstr "kiwen"
 
 #: script/localization.js:15 script/path.js:133
 msgid "steel"
-msgstr "kiwen pona"
+msgstr "kiwen wawa"
 
 #: script/localization.js:16
 msgid "coal"
-msgstr ""
+msgstr "kiwen seli"
 
 #: script/localization.js:17
 msgid "sulphur"
@@ -550,7 +551,7 @@ msgstr "palisa suno"
 
 #: script/localization.js:20
 msgid "medicine"
-msgstr ""
+msgstr "misikeke"
 
 #: script/localization.js:21 script/outside.js:22
 msgid "hunter"
@@ -742,7 +743,7 @@ msgstr "lili pi selo akesi"
 
 #: script/outside.js:116
 msgid "scattered teeth"
-msgstr "lili pi uta akesi"
+msgstr "kiwen uta lili"
 
 #: script/outside.js:121
 msgid "tattered cloth"
@@ -770,11 +771,11 @@ msgstr "jan mama en jan lili li kama awen lon tomo wan."
 
 #: script/outside.js:191
 msgid "a small group arrives, all dust and bones."
-msgstr "kulupu lili li kama."
+msgstr "jan pi mute lili li kama. ona li pakala lukin tan tawa mute."
 
 #: script/outside.js:193
 msgid "a convoy lurches in, equal parts worry and hope."
-msgstr ""
+msgstr "kulupu pi jan tawa li kama. ona li pilin e ken ike e ken pona."
 
 #: script/outside.js:195
 #, fuzzy
@@ -1183,11 +1184,11 @@ msgstr "lete"
 
 #: script/room.js:619
 msgid "mild"
-msgstr "seli pona"
+msgstr "seli lili"
 
 #: script/room.js:620
 msgid "warm"
-msgstr "seli"
+msgstr "seli pona"
 
 #: script/room.js:621
 msgid "hot"
@@ -1239,7 +1240,7 @@ msgstr "kon li kalama lon weka tomo"
 
 #: script/room.js:763
 msgid "the wood is running out"
-msgstr "kiwen kasi li kama weka"
+msgstr "kiwen kasi li kama mute ala"
 
 #: script/room.js:770
 msgid "a ragged stranger stumbles through the door and collapses in the corner"
@@ -1771,49 +1772,49 @@ msgstr ""
 
 #: script/events/marketing.js:9
 msgid "Penrose"
-msgstr ""
+msgstr "musi Penrose"
 
 #: script/events/marketing.js:14
 msgid ""
 "a strange thrumming, pounding and crashing. visions of people and places, of "
 "a huge machine and twisting curves."
-msgstr ""
+msgstr "jan pali pi musi ni li pali e musi sin."
 
 #: script/events/marketing.js:15
 msgid "inviting. it would be so easy to give in, completely."
-msgstr ""
+msgstr "ona li pona."
 
 #: script/events/marketing.js:17
 msgid "a strange thrumming, pounding and crashing. and then gone."
-msgstr ""
+msgstr "sina wile la sina ken musi e ona."
 
 #: script/events/marketing.js:21
 msgid "give in"
-msgstr ""
+msgstr "mi wile"
 
 #: script/events/marketing.js:28 script/events/outside.js:116
 msgid "ignore it"
-msgstr ""
+msgstr "mi wile ala"
 
 #: script/events/outside.js:6
 msgid "A Ruined Trap"
-msgstr ""
+msgstr "ilo alasa pakala"
 
 #: script/events/outside.js:13
 msgid "some of the traps have been torn apart."
-msgstr ""
+msgstr "ilo alasa mute li kama pakala."
 
 #: script/events/outside.js:14
 msgid "large prints lead away, into the forest."
-msgstr ""
+msgstr "sitelen mute pi noka soweli li lon ma li tawa ma kasi."
 
 #: script/events/outside.js:22
 msgid "some traps have been destroyed"
-msgstr ""
+msgstr "ilo alasa mute li kama pakala"
 
 #: script/events/outside.js:26
 msgid "track them"
-msgstr ""
+msgstr "o lukin"
 
 #: script/events/outside.js:30 script/events/room.js:72
 #: script/events/room.js:124
@@ -1822,15 +1823,15 @@ msgstr "o lukin ala"
 
 #: script/events/outside.js:37
 msgid "the tracks disappear after just a few minutes."
-msgstr ""
+msgstr "alasa la sitelen noka li weka lon tenpo lili."
 
 #: script/events/outside.js:38
 msgid "the forest is silent."
-msgstr ""
+msgstr "kalama ala li lon ma kasi."
 
 #: script/events/outside.js:40
 msgid "nothing was found"
-msgstr ""
+msgstr "sona ala li kama"
 
 #: script/events/outside.js:43 script/events/outside.js:61
 #: script/events/outside.js:128 script/events/outside.js:146
@@ -1838,19 +1839,21 @@ msgstr ""
 #: script/events/outside.js:252 script/events/outside.js:287
 #: script/events/room.js:295 script/events/room.js:313
 msgid "go home"
-msgstr ""
+msgstr "o tawa tomo"
 
 #: script/events/outside.js:50
 msgid "not far from the village lies a large beast, its fur matted with blood."
 msgstr ""
+"lon weka ala pi ma tomo la monsuta moli suli li lon. telo loje li lon linja "
+"ona."
 
 #: script/events/outside.js:51
 msgid "it puts up little resistance before the knife."
-msgstr ""
+msgstr "ona li utala mute ala e ilo moli."
 
 #: script/events/outside.js:53
 msgid "there was a beast. it's dead now"
-msgstr ""
+msgstr "monsuta li lon. tenpo ni la ona li moli"
 
 #: script/events/outside.js:70
 msgid "Fire"
@@ -1974,27 +1977,27 @@ msgstr ""
 
 #: script/events/outside.js:228
 msgid "A Beast Attack"
-msgstr ""
+msgstr "monsuta li utala"
 
 #: script/events/outside.js:235
 msgid "a pack of snarling beasts pours out of the trees."
-msgstr ""
+msgstr "monsuta mute li kama tan ma kasi."
 
 #: script/events/outside.js:236
 msgid "the fight is short and bloody, but the beasts are repelled."
-msgstr ""
+msgstr "utala li ike mute, taso monsuta li kama anpa li weka."
 
 #: script/events/outside.js:237
 msgid "the villagers retreat to mourn the dead."
-msgstr ""
+msgstr "jan li pilin ike tan moli."
 
 #: script/events/outside.js:239
 msgid "wild beasts attack the villagers"
-msgstr ""
+msgstr "monsuta li utala e jan"
 
 #: script/events/outside.js:253
 msgid "predators become prey. price is unfair"
-msgstr ""
+msgstr "monsuta li moli. jan pi mute ike li moli kin"
 
 #: script/events/outside.js:263
 msgid "A Military Raid"
@@ -2077,15 +2080,15 @@ msgstr "kalama"
 
 #: script/events/room.js:61
 msgid "through the walls, shuffling noises can be heard."
-msgstr "kalama pi tawa noka li lon kute, tan sinpin tomo."
+msgstr "kalama pi tawa noka li lon kute, tan weka tomo."
 
 #: script/events/room.js:62
 msgid "can't tell what they're up to."
-msgstr "ala li sona e pali ona."
+msgstr "sona ni li ala: ona li pali seme."
 
 #: script/events/room.js:64
 msgid "strange noises can be heard through the walls"
-msgstr ""
+msgstr "kalama nasa li kama tan weka tomo tomo"
 
 #: script/events/room.js:68 script/events/room.js:120
 #: script/events/setpieces.js:1666
@@ -2094,24 +2097,24 @@ msgstr "o lukin"
 
 #: script/events/room.js:79
 msgid "vague shapes move, just out of sight."
-msgstr ""
+msgstr "pimeja pi jan lukin li tawa, lon ken lukin ala."
 
 #: script/events/room.js:80
 msgid "the sounds stop."
-msgstr ""
+msgstr "kalama li pini."
 
 #: script/events/room.js:84 script/events/room.js:97
 msgid "go back inside"
-msgstr ""
+msgstr "o tawa insa"
 
 #: script/events/room.js:92
 msgid ""
 "a bundle of sticks lies just beyond the threshold, wrapped in coarse furs."
-msgstr ""
+msgstr "palisa kasi li lon poka tomo. linja soweli li selo ona."
 
 #: script/events/room.js:93
 msgid "the night is silent."
-msgstr ""
+msgstr "pimeja li kalama ala."
 
 #: script/events/room.js:113
 msgid "scratching noises can be heard from the store room."
@@ -2123,7 +2126,7 @@ msgstr "ijo li lon ona li moli ala."
 
 #: script/events/room.js:116
 msgid "something's in the store room"
-msgstr "ijo li lon tomo jo li moli ala."
+msgstr "ijo li lon tomo jo li moli ala"
 
 #: script/events/room.js:131 script/events/room.js:151
 #: script/events/room.js:171
@@ -2132,31 +2135,31 @@ msgstr "kiwen kasi mute li weka."
 
 #: script/events/room.js:132
 msgid "the ground is littered with small scales"
-msgstr "selo akesi mute li lon anpa."
+msgstr "selo akesi mute li lon anpa"
 
 #: script/events/room.js:152
 msgid "the ground is littered with small teeth"
-msgstr "kiwen uta mute li lon anpa."
+msgstr "kiwen uta mute li lon anpa"
 
 #: script/events/room.js:172
 msgid "the ground is littered with scraps of cloth"
-msgstr "lili len mute li lon anpa."
+msgstr "lili len mute li lon anpa"
 
 #: script/events/room.js:193
 msgid "The Beggar"
-msgstr ""
+msgstr "jan pi tomo ala"
 
 #: script/events/room.js:200
 msgid "a beggar arrives."
-msgstr ""
+msgstr "jan pi tomo ala li kama."
 
 #: script/events/room.js:201
 msgid "asks for any spare furs to keep him warm at night."
-msgstr ""
+msgstr "ona li wile e linja soweli tawa lape seli."
 
 #: script/events/room.js:203
 msgid "a beggar arrives"
-msgstr ""
+msgstr "jan pi tomo ala li kama"
 
 #: script/events/room.js:207
 msgid "give 50"
@@ -2175,43 +2178,43 @@ msgstr "o weka e ona"
 #: script/events/room.js:225 script/events/room.js:238
 #: script/events/room.js:251
 msgid "the beggar expresses his thanks."
-msgstr ""
+msgstr "jan pi tomo ala li toki e pona sina."
 
 #: script/events/room.js:226
 msgid "leaves a pile of small scales behind."
-msgstr ""
+msgstr "ona li pana e selo akesi lili."
 
 #: script/events/room.js:239
 msgid "leaves a pile of small teeth behind."
-msgstr ""
+msgstr "ona li pana e kiwen uta lili."
 
 #: script/events/room.js:252
 msgid "leaves some scraps of cloth behind."
-msgstr ""
+msgstr "ona li pana e len lili."
 
 #: script/events/room.js:265
 msgid "The Shady Builder"
-msgstr ""
+msgstr "jan pali pi ken ike"
 
 #: script/events/room.js:272 script/events/room.js:275
 msgid "a shady builder passes through"
-msgstr ""
+msgstr "jan pali pi ken ike li kama"
 
 #: script/events/room.js:273
 msgid "says he can build you a hut for less wood"
-msgstr ""
+msgstr "ona li toki e ni: ona li ken pali e tomo kepeken kiwen kasi lili"
 
 #: script/events/room.js:278
 msgid "300 wood"
-msgstr ""
+msgstr "kiwen kasi 300"
 
 #: script/events/room.js:290 script/events/room.js:292
 msgid "the shady builder has made off with your wood"
-msgstr ""
+msgstr "jan pali pi ken ike li tawa weka li weka e kiwen kasi"
 
 #: script/events/room.js:302 script/events/room.js:304
 msgid "the shady builder builds a hut"
-msgstr ""
+msgstr "jan pali pi ken ike li pali e tomo"
 
 #: script/events/room.js:323 script/events/room.js:403
 msgid "The Mysterious Wanderer"
@@ -2222,8 +2225,8 @@ msgid ""
 "a wanderer arrives with an empty cart. says if he leaves with wood, he'll be "
 "back with more."
 msgstr ""
-"jan li kama. poki tawa ona li jo ala. ona li toki e ni: ona li kama jo e "
-"kasi la ona li weka li kama sin li jo e kasi mute."
+"jan tawa li kama. poki tawa ona li jo ala. ona li toki e ni: ona li kama jo "
+"e kasi la ona li weka li kama sin li jo e kasi mute."
 
 #: script/events/room.js:331
 msgid "builder's not sure he's to be trusted."
@@ -2231,7 +2234,7 @@ msgstr "jan pali li sona ala e pona ona."
 
 #: script/events/room.js:333 script/events/room.js:413
 msgid "a mysterious wanderer arrives"
-msgstr ""
+msgstr "jan tawa li kama"
 
 #: script/events/room.js:342 script/events/room.js:422
 msgid "give 500"
@@ -2239,7 +2242,7 @@ msgstr "o pana e ijo 500"
 
 #: script/events/room.js:354 script/events/room.js:377
 msgid "the wanderer leaves, cart loaded with wood"
-msgstr "jan tawa li weka. kasi mute li lon poki ona."
+msgstr "jan tawa li weka. kasi mute li lon poki ona"
 
 #: script/events/room.js:360 script/events/room.js:383
 msgid "the mysterious wanderer returns, cart piled high with wood."
@@ -2263,7 +2266,7 @@ msgstr "o weka e ona"
 
 #: script/events/room.js:434 script/events/room.js:457
 msgid "the wanderer leaves, cart loaded with furs"
-msgstr "jan tawa li weka. linja soweli mute li lon poki ona."
+msgstr "jan tawa li weka. linja soweli mute li lon poki ona"
 
 #: script/events/room.js:440 script/events/room.js:463
 msgid "the mysterious wanderer returns, cart piled high with furs."
@@ -2283,7 +2286,7 @@ msgstr "ona li ken pana e sona. taso ni li wile e mani."
 
 #: script/events/room.js:493
 msgid "a scout stops for the night"
-msgstr ""
+msgstr "jan pi lukin ma li awen lon ma ni lon tenpo pimeja"
 
 #: script/events/room.js:497
 msgid "buy map"
@@ -2291,7 +2294,7 @@ msgstr "o esun e sitelen ma"
 
 #: script/events/room.js:502
 msgid "the map uncovers a bit of the world"
-msgstr "sitelen ma li pana e sona pi lili ma."
+msgstr "sitelen ma li pana e sona pi lili ma"
 
 #: script/events/room.js:506
 msgid "learn scouting"
@@ -2299,39 +2302,39 @@ msgstr "o kama sona lukin e ma"
 
 #: script/events/room.js:526
 msgid "The Master"
-msgstr ""
+msgstr "jan sona"
 
 #: script/events/room.js:533
 msgid "an old wanderer arrives."
-msgstr ""
+msgstr "jan majuna li kama."
 
 #: script/events/room.js:534
 msgid "he smiles warmly and asks for lodgings for the night."
-msgstr ""
+msgstr "ona li sinpin e pilin pona li toki e wile pi tomo lape."
 
 #: script/events/room.js:536
 msgid "an old wanderer arrives"
-msgstr ""
+msgstr "jan majuna li kama"
 
 #: script/events/room.js:540
 msgid "agree"
-msgstr ""
+msgstr "o pana e lape"
 
 #: script/events/room.js:556
 msgid "in exchange, the wanderer offers his wisdom."
-msgstr ""
+msgstr "tan pona sina la jan li pana e sona ona."
 
 #: script/events/room.js:560
 msgid "evasion"
-msgstr ""
+msgstr "tawa utala"
 
 #: script/events/room.js:570
 msgid "precision"
-msgstr ""
+msgstr "pona utala"
 
 #: script/events/room.js:580
 msgid "force"
-msgstr ""
+msgstr "wawa utala"
 
 #: script/events/room.js:600
 msgid "The Sick Man"
