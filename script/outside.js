@@ -448,7 +448,7 @@ var Outside = {
 			}
 		}
 		/// TRANSLATORS : pop is short for population.
-		population.text(_('pop ') + $SM.get('game.population') + '/' + this.getMaxPopulation());
+		population.text(_('pop {0}/{1}', $SM.get('game.population'), this.getMaxPopulation()));
 		
 		var hasPeeps;
 		if($SM.get('game.buildings["hut"]', true) === 0) {
@@ -637,7 +637,7 @@ var Outside = {
 		var s = _('the traps contain ');
 		for(var l = 0, len = msg.length; l < len; l++) {
 			if(len > 1 && l > 0 && l < len - 1) {
-				s += ", ";
+				s += _(", ");
 			} else if(len > 1 && l == len - 1) {
 				/// TRANSLATORS : Mind the whitespaces at the beginning and end.
 				s += _(" and ");

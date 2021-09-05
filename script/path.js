@@ -160,7 +160,7 @@ var Path = {
 		var currentBagCapacity = 0;
 		// Add the non-craftables to the craftables
 		var carryable = $.extend({
-			'cured meat': { type: 'tool', desc: _('restores') + ' ' + World.MEAT_HEAL + ' ' + _('hp') },
+			'cured meat': { type: 'tool', desc: _('restores {0} hp', World.MEAT_HEAL) },
 			'bullets': { type: 'tool', desc: _('use with rifle') },
 			'grenade': {type: 'weapon' },
 			'bolas': {type: 'weapon' },
@@ -168,7 +168,7 @@ var Path = {
 			'energy cell': {type: 'tool', desc: _('emits a soft red glow') },
 			'bayonet': {type: 'weapon' },
 			'charm': {type: 'tool'},
-			'medicine': {type: 'tool', desc: _('restores') + ' ' + World.MEDS_HEAL + ' ' + _('hp') }
+			'medicine': {type: 'tool', desc: _('restores {0} hp', World.MEDS_HEAL) }
 		}, Room.Craftables);
 		
 		for(var k in carryable) {
