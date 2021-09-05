@@ -20,6 +20,7 @@ var langs = {
 	'sv':'svenska',
 	'th':'ไทย',
 	'tr':'türkçe',
+	'tok': 'toki pona',
 	'uk':'українська',
 	'vi':'tiếng việt',
 	'zh_cn':'简体中文',
