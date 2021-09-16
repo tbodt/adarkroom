@@ -691,7 +691,7 @@ var Events = {
 		});
 		var takeall = new Button.Button({
 			id: 'all_take_' + id,
-			text: _('take') + ' ',
+			text: _('take '),
 			click: Events.takeAll
 		}).addClass('lootTakeAll').appendTo(lootRow);
 		$('<span>').insertBefore(takeall.children('.cooldown'));
@@ -779,7 +779,7 @@ var Events = {
 		var text = _(basetext);
 		if(takeAndLeave){
 			Button.cooldown(btn);
-			text += _(' and ') + btn.data('leaveBtn').text();
+			text = _('{0} and {1}', text, btn.data('leaveBtn').text());
 		}
 		textbox.text( text );
 		btn.data('canLeave', takeAndLeave);

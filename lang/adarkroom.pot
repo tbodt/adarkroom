@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-09-04 18:57-0700\n"
+"POT-Creation-Date: 2021-09-14 20:03-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -447,8 +447,8 @@ msgstr ""
 msgid "nothing"
 msgstr ""
 
-#: script/events.js:694 script/events/setpieces.js:3563
-msgid "take"
+#: script/events.js:694
+msgid "take "
 msgstr ""
 
 #: script/events.js:704
@@ -471,8 +471,8 @@ msgstr ""
 msgid "take all you can"
 msgstr ""
 
-#: script/events.js:782 script/outside.js:643
-msgid " and "
+#: script/events.js:782
+msgid "{0} and {1}"
 msgstr ""
 
 #: script/events.js:1035
@@ -825,6 +825,10 @@ msgstr ""
 
 #: script/outside.js:640
 msgid ", "
+msgstr ""
+
+#: script/outside.js:643
+msgid " and "
 msgstr ""
 
 #: script/path.js:28 script/path.js:313
@@ -3375,6 +3379,10 @@ msgstr ""
 
 #: script/events/setpieces.js:3559
 msgid "there are still supplies inside."
+msgstr ""
+
+#: script/events/setpieces.js:3563
+msgid "take"
 msgstr ""
 
 #: script/events/setpieces.js:3570
