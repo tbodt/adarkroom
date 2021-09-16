@@ -1,4 +1,15 @@
-.button{width: 120px !important;}
-#outsidePanel .button{width: 115px !important;}
-.eventPanel .button {width: 122px !important;}
-div.button div.tooltip {width: 120px !important;}
+.button {
+    width: 120px !important;
+}
+#outsidePanel .button {
+    width: 115px !important;
+}
+.eventPanel .button {
+    width: 122px !important;
+}
+div.button div.tooltip {
+    width: 120px !important;
+}
+div#workers {
+    width: 190px !important;
+}
