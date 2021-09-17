@@ -10,10 +10,10 @@
 		Inspired by Candy Box (http://candies.aniwey.net/)
 		Contribute on GitHub! (https://github.com/doublespeakgames/adarkroom/)
 	-->
-	<title>A Dark Room</title>
-	<meta itemprop="description" name="description" property="og:description" content="A minimalist text adventure">
+	<title>tomo pimeja</title>
+	<meta itemprop="description" name="description" property="og:description" content="musi pi sitelen toki taso">
 	<meta itemprop="image" property="og:image" content="img/adr.png" />
-	<meta itemprop="name" property="og:title" content="A Dark Room" />
+	<meta itemprop="name" property="og:title" content="tomo pimeja" />
 	<link rel="shortcut icon" href="favicon.ico" />
 	<link rel="image_src" href="img/adr.png" />
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
@@ -39,6 +39,9 @@
 				lang = localStorage.lang;
 			} catch(e) {}
 		}
+                if (!lang) {
+                                lang = 'tok';
+                }
 		// if a language different than english requested, load all translations
 		if(lang && lang != 'en'){
 			document.write('<script src="lang/'+lang+'/strings.js"><\/script>');
