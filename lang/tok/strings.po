@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2021-09-14 20:03-0700\n"
-"PO-Revision-Date: 2021-09-15 22:56-0700\n"
+"PO-Revision-Date: 2021-09-16 19:10-0700\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: tok\n"
@@ -2803,29 +2803,31 @@ msgstr "ma tomo suli pakala"
 #: script/events/setpieces.js:1247
 msgid ""
 "a battered highway sign stands guard at the entrance to this once-great city."
-msgstr ""
+msgstr "sitelen nasin li lon open pi nasin suli. ma ni li suli lon tenpo pini."
 
 #: script/events/setpieces.js:1248
 msgid ""
 "the towers that haven't crumbled jut from the landscape like the ribcage of "
 "some ancient beast."
 msgstr ""
+"tomo palisa mute li pakala li anpa. palisa ante li pakala lukin li suli lon "
+"sewi."
 
 #: script/events/setpieces.js:1249
 msgid "might be things worth having still inside."
-msgstr ""
+msgstr "ken la ijo pona li lon."
 
 #: script/events/setpieces.js:1251
 msgid "the towers of a decaying city dominate the skyline"
-msgstr ""
+msgstr "tomo palisa pi ma tomo pakala li suli lon sewi"
 
 #: script/events/setpieces.js:1265
 msgid "the streets are empty."
-msgstr ""
+msgstr "ala li lon nasin."
 
 #: script/events/setpieces.js:1266
 msgid "the air is filled with dust, driven relentlessly by the hard winds."
-msgstr ""
+msgstr "ko mute li lon kon. kon li tawa wawa e ko."
 
 #: script/events/setpieces.js:1274 script/events/setpieces.js:1290
 #: script/events/setpieces.js:1306 script/events/setpieces.js:1322
@@ -2853,43 +2855,43 @@ msgstr ""
 #: script/events/setpieces.js:2839 script/events/setpieces.js:2885
 #: script/events/setpieces.js:2929
 msgid "leave city"
-msgstr ""
+msgstr "o weka tan ma tomo"
 
 #: script/events/setpieces.js:1281
 msgid "orange traffic cones are set across the street, faded and cracked."
-msgstr ""
+msgstr "palisa loje pi pakala lukin li pini e nasin."
 
 #: script/events/setpieces.js:1282
 msgid "lights flash through the alleys between buildings."
-msgstr ""
+msgstr "suno li tan nasin pi poka tomo."
 
 #: script/events/setpieces.js:1297
 msgid "a large shanty town sprawls across the streets."
-msgstr ""
+msgstr "ma ni li ike. jan ale ona li pakala pilin."
 
 #: script/events/setpieces.js:1298
 msgid "faces, darkened by soot and blood, stare out from crooked huts."
-msgstr ""
+msgstr "tomo li ike pakala. sinpin jan pimeja li lukin tan lupa tomo."
 
 #: script/events/setpieces.js:1313
 msgid "the shell of an abandoned hospital looms ahead."
-msgstr ""
+msgstr "tomo pi pona sijelo li lon. insa ona li weka."
 
 #: script/events/setpieces.js:1329
 msgid "the old tower seems mostly intact."
-msgstr ""
+msgstr "lukin la tomo palisa ni li pakala mute ala."
 
 #: script/events/setpieces.js:1330
 msgid "the shell of a burned out car blocks the entrance."
-msgstr ""
+msgstr "insa pi tomo tawa ni li weka tan seli. ona li pini e lupa open."
 
 #: script/events/setpieces.js:1331
 msgid "most of the windows at ground level are busted anyway."
-msgstr ""
+msgstr "ni li suli ala. lupa lukin mute li pakala lon supa tomo anpa."
 
 #: script/events/setpieces.js:1346
 msgid "a huge lizard scrambles up out of the darkness of an old metro station."
-msgstr ""
+msgstr "akesi suli li kama tan lupa pimeja pi tomo tawa linja."
 
 #: script/events/setpieces.js:1372
 msgid "descend"
@@ -2897,311 +2899,313 @@ msgstr "o tawa anpa"
 
 #: script/events/setpieces.js:1384
 msgid "the shot echoes in the empty street."
-msgstr ""
+msgstr "mu pi ilo utala li kalama suli lon nasin."
 
 #: script/events/setpieces.js:1424
 msgid "the soldier steps out from between the buildings, rifle raised."
-msgstr ""
+msgstr "jan utala li kama tan poka tomo, li jo e ilo pi pana kiwen."
 
 #: script/events/setpieces.js:1464
 msgid "a frail man stands defiantly, blocking the path."
-msgstr ""
+msgstr "jan pi wawa ala li lukin wawa li pini e nasin."
 
 #: script/events/setpieces.js:1509
 msgid "nothing but downcast eyes."
-msgstr ""
+msgstr "pilin anpa li lon lukin jan ale."
 
 #: script/events/setpieces.js:1510
 msgid "the people here were broken a long time ago."
-msgstr ""
+msgstr "jan ni li kama pakala lon tenpo suli pini."
 
 #: script/events/setpieces.js:1525
 msgid "empty corridors."
-msgstr ""
+msgstr "ala li lon nasin."
 
 #: script/events/setpieces.js:1526
 msgid "the place has been swept clean by scavengers."
-msgstr ""
+msgstr "jan alasa li weka e ijo ale lon tenpo pini."
 
 #: script/events/setpieces.js:1540
 msgid "an old man bursts through a door, wielding a scalpel."
-msgstr ""
+msgstr "jan majuna li kama tan lupa, li utala kepeken ilo kipisi sijelo."
 
 #: script/events/setpieces.js:1579
 msgid "a thug is waiting on the other side of the wall."
-msgstr ""
+msgstr "jan ike li lon insa."
 
 #: script/events/setpieces.js:1619
 msgid "a snarling beast jumps out from behind a car."
-msgstr ""
+msgstr "monsuta li mu li kama tan monsi pi tomo tawa."
 
 #: script/events/setpieces.js:1660
 msgid "street above the subway platform is blown away."
-msgstr ""
+msgstr "tomo awen pi tomo tawa linja la sewi li pakala li weka."
 
 #: script/events/setpieces.js:1661
 msgid "lets some light down into the dusty haze."
-msgstr ""
+msgstr "suno li ken tan sewi lon kon."
 
 #: script/events/setpieces.js:1662
 msgid "a sound comes from the tunnel, just ahead."
-msgstr ""
+msgstr "kalama li kama tan nasin lupa pi tomo tawa."
 
 #: script/events/setpieces.js:1679
 msgid "looks like a camp of sorts up ahead."
-msgstr ""
+msgstr "lukin la ma kulupu li lon."
 
 #: script/events/setpieces.js:1681
 msgid "rusted chainlink is pulled across an alleyway."
-msgstr ""
+msgstr "sinpin pi linja kiwen jaki li pini e nasin."
 
 #: script/events/setpieces.js:1682
 msgid "fires burn in the courtyard beyond."
-msgstr ""
+msgstr "seli li lon poki mute lon monsi sinpin."
 
 #: script/events/setpieces.js:1698
 msgid "more voices can be heard ahead."
-msgstr ""
+msgstr "mu jan mute li lon kute."
 
 #: script/events/setpieces.js:1699
 msgid "they must be here for a reason."
-msgstr ""
+msgstr "ni li ken ala tan ijo ala."
 
 #: script/events/setpieces.js:1715
 msgid "the sound of gunfire carries on the wind."
-msgstr ""
+msgstr "mu pi ilo utala li lon."
 
 #: script/events/setpieces.js:1716
 msgid "the street ahead glows with firelight."
-msgstr ""
+msgstr "seli li suno e nasin."
 
 #: script/events/setpieces.js:1733
 msgid "more squatters are crowding around now."
-msgstr ""
+msgstr "jan mute li kama li kama kulupu."
 
 #: script/events/setpieces.js:1734
 msgid "someone throws a stone."
-msgstr ""
+msgstr "jan wan li pana utala e kiwen."
 
 #: script/events/setpieces.js:1750
 msgid "an improvised shop is set up on the sidewalk."
-msgstr ""
+msgstr "esun lili li lon poka nasin."
 
 #: script/events/setpieces.js:1751
 msgid "the owner stands by, stoic."
-msgstr ""
+msgstr "jan lawa li lon. sinpin ona li pilin ala."
 
 #: script/events/setpieces.js:1796
 msgid "strips of meat hang drying by the side of the street."
-msgstr ""
+msgstr "moku soweli li awen lon poka nasin."
 
 #: script/events/setpieces.js:1797
 msgid "the people back away, avoiding eye contact."
-msgstr ""
+msgstr "jan li tawa weka, li anpa e lukin."
 
 #: script/events/setpieces.js:1822
 msgid "someone has locked and barricaded the door to this operating theatre."
-msgstr ""
+msgstr "tomo ni pi kipisi sijelo la lupa li pini awen mute."
 
 #: script/events/setpieces.js:1837
 msgid "a tribe of elderly squatters is camped out in this ward."
-msgstr ""
+msgstr "kulupu pi jan majuna li awen lon tomo ni."
 
 #: script/events/setpieces.js:1878
 msgid "a pack of lizards rounds the corner."
-msgstr ""
+msgstr "kulupu akesi li kama tan nasin."
 
 #: script/events/setpieces.js:1920
 msgid "strips of meat are hung up to dry in this ward."
-msgstr ""
+msgstr "kipisi pi moku soweli li lon tomo ni."
 
 #: script/events/setpieces.js:1944
 msgid "a large bird nests at the top of the stairs."
-msgstr ""
+msgstr "tomo pi waso suli li lon sewi pi nasin leko."
 
 #: script/events/setpieces.js:1975
 msgid "the debris is denser here."
-msgstr ""
+msgstr "ijo pakala li mute lon anpa lon ni."
 
 #: script/events/setpieces.js:1976
 msgid "maybe some useful stuff in the rubble."
-msgstr ""
+msgstr "ken la ijo pona li lon insa."
 
 #: script/events/setpieces.js:2015
 msgid "a swarm of rats rushes up the tunnel."
-msgstr ""
+msgstr "soweli lili jaki mute li kama tan nasin lupa."
 
 #: script/events/setpieces.js:2051
 msgid "a large man attacks, waving a bayonet."
-msgstr ""
+msgstr "jan suli li kama utala kepeken palisa kipisi."
 
 #: script/events/setpieces.js:2086
 msgid "a second soldier opens fire."
-msgstr ""
+msgstr "jan utala sin li kama kepeken ilo pi pana kiwen."
 
 #: script/events/setpieces.js:2127
 msgid "a masked soldier rounds the corner, gun drawn"
-msgstr ""
+msgstr "jan utala pi len sinpin li kama tan monsi tomo."
 
 #: script/events/setpieces.js:2168
 msgid "the crowd surges forward."
-msgstr ""
+msgstr "kulupu li kama utala."
 
 #: script/events/setpieces.js:2204
 msgid "a youth lashes out with a tree branch."
-msgstr ""
+msgstr "jan lili li kama utala kepeken palisa kasi."
 
 #: script/events/setpieces.js:2239
 msgid "a squatter stands firmly in the doorway of a small hut."
-msgstr ""
+msgstr "jan li lon lupa tomo li tawa ala."
 
 #: script/events/setpieces.js:2274
 msgid "behind the door, a deformed figure awakes and attacks."
-msgstr ""
+msgstr "tan tomo la, jan pi sijelo nasa li kama lape ala li kama utala."
 
 #: script/events/setpieces.js:2314
 msgid "as soon as the door is open a little bit, hundreds of tentacles erupt."
 msgstr ""
+"lupa li open lili lili la, luka linja mute mute mute mute mute mute li kama "
+"utala."
 
 #: script/events/setpieces.js:2341
 msgid "bird must have liked shiney things."
-msgstr ""
+msgstr "lukin la kiwen suno li pona tawa waso."
 
 #: script/events/setpieces.js:2342
 msgid "some good stuff woven into its nest."
-msgstr ""
+msgstr "ijo pona li lon linja pi tomo ona."
 
 #: script/events/setpieces.js:2376
 msgid "not much here."
-msgstr ""
+msgstr "ijo mute ala li lon."
 
 #: script/events/setpieces.js:2377
 msgid "scavengers must have gotten to this place already."
-msgstr ""
+msgstr "lukin la jan alasa li lon ni lon tenpo pini."
 
 #: script/events/setpieces.js:2407
 msgid "the tunnel opens up at another platform."
-msgstr ""
+msgstr "nasin lupa li kama tawa tomo awen sin."
 
 #: script/events/setpieces.js:2408
 msgid "the walls are scorched from an old battle."
-msgstr ""
+msgstr "sinpin tomo li pakala selo tan utala pi tenpo weka."
 
 #: script/events/setpieces.js:2409
 msgid "bodies and supplies from both sides litter the ground."
-msgstr ""
+msgstr "sijelo en ijo li mute lon anpa tan kulupu utala tu."
 
 #: script/events/setpieces.js:2453
 msgid "the small military outpost is well supplied."
-msgstr ""
+msgstr "kulupu utala li jo e ijo pona mute lon ma lili ni."
 
 #: script/events/setpieces.js:2454
 msgid ""
 "arms and munitions, relics from the war, are neatly arranged on the store-"
 "room floor."
-msgstr ""
+msgstr "ilo utala mute li lon tomo lon nasin pona."
 
 #: script/events/setpieces.js:2455
 msgid "just as deadly now as they were then."
-msgstr ""
+msgstr "ona li tan utala pi tenpo weka, li ken moli wawa sama tenpo weka."
 
 #: script/events/setpieces.js:2489
 msgid "searching the bodies yields a few supplies."
-msgstr ""
+msgstr "alasa li kama lukin e ijo pona pi mute ala lon sijelo moli."
 
 #: script/events/setpieces.js:2490
 msgid "more soldiers will be on their way."
-msgstr ""
+msgstr "jan utala ante li kama."
 
 #: script/events/setpieces.js:2491
 msgid "time to move on."
-msgstr ""
+msgstr "weka li wile."
 
 #: script/events/setpieces.js:2530
 msgid "the small settlement has clearly been burning a while."
-msgstr ""
+msgstr "ma lili li seli suli lon tenpo suli li pakala tan ni."
 
 #: script/events/setpieces.js:2531
 msgid ""
 "the bodies of the wanderers that lived here are still visible in the flames."
-msgstr ""
+msgstr "sijelo pi jan ma li lon lukin lon seli."
 
 #: script/events/setpieces.js:2532
 msgid "still time to rescue a few supplies."
-msgstr ""
+msgstr "ale ala li seli la ijo pona li ken kama jo."
 
 #: script/events/setpieces.js:2566
 msgid ""
 "the remaining settlers flee from the violence, their belongings forgotten."
-msgstr ""
+msgstr "jan pakala ante li weka tan utala suli, li weka e ijo ona."
 
 #: script/events/setpieces.js:2567
 msgid "there's not much, but some useful things can still be found."
-msgstr ""
+msgstr "ijo li mute ala, taso ijo pona li lon."
 
 #: script/events/setpieces.js:2601
 msgid "the young settler was carrying a canvas sack."
-msgstr ""
+msgstr "jan lili ni li jo e poki."
 
 #: script/events/setpieces.js:2602
 msgid "it contains travelling gear, and a few trinkets."
-msgstr ""
+msgstr "ijo pi jan tawa en ijo musi lili li lon insa."
 
 #: script/events/setpieces.js:2603 script/events/setpieces.js:2639
 msgid "there's nothing else here."
-msgstr ""
+msgstr "ijo ante ala li lon."
 
 #: script/events/setpieces.js:2637
 msgid "inside the hut, a child cries."
-msgstr ""
+msgstr "insa tomo la, jan lili li mu."
 
 #: script/events/setpieces.js:2638
 msgid "a few belongings rest against the walls."
-msgstr ""
+msgstr "ijo pi mute ala li lon sinpin poka."
 
 #: script/events/setpieces.js:2678
 msgid "the stench of rot and death fills the operating theatres."
-msgstr ""
+msgstr "kon jaki moli li suli mute lon tomo pi kipisi sijelo."
 
 #: script/events/setpieces.js:2679
 msgid "a few items are scattered on the ground."
-msgstr ""
+msgstr "ijo pi mute ala li lon anpa."
 
 #: script/events/setpieces.js:2680
 msgid "there is nothing else here."
-msgstr ""
+msgstr "ijo ante ala li lon."
 
 #: script/events/setpieces.js:2719
 msgid "a pristine medicine cabinet at the end of a hallway."
-msgstr ""
+msgstr "poki misikeke pona li lon pini nasin."
 
 #: script/events/setpieces.js:2720
 msgid "the rest of the hospital is empty."
-msgstr ""
+msgstr "nasin ante tomo la ale li weka."
 
 #: script/events/setpieces.js:2754
 msgid "someone had been stockpiling loot here."
-msgstr ""
+msgstr "ijo pona mute li lon. ken la jan li alasa e ijo li pana tawa ni."
 
 #: script/events/setpieces.js:2803
 msgid "the tentacular horror is defeated."
-msgstr ""
+msgstr "monsuta pi luka linja li moli."
 
 #: script/events/setpieces.js:2804
 msgid "inside, the remains of its victims are everywhere."
-msgstr ""
+msgstr "insa tomo la, sijelo moli mute li lon tan ona."
 
 #: script/events/setpieces.js:2849
 msgid "the warped man lies dead."
-msgstr ""
+msgstr "jan pi sijelo nasa li moli."
 
 #: script/events/setpieces.js:2850
 msgid "the operating theatre has a lot of curious equipment."
-msgstr ""
+msgstr "ilo nasa li lon tomo."
 
 #: script/events/setpieces.js:2894
 msgid "the old man had a small cache of interesting items."
-msgstr ""
+msgstr "ijo pona lili li lon poki pi jan majuna."
 
 #: script/events/setpieces.js:2939
 msgid "An Old House"
