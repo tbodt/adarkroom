@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2021-09-14 20:03-0700\n"
-"PO-Revision-Date: 2021-09-16 19:10-0700\n"
+"PO-Revision-Date: 2021-10-06 21:43-0700\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: tok\n"
@@ -1331,8 +1331,8 @@ msgid ""
 "somewhere above the debris cloud, the wanderer fleet hovers. been on this "
 "rock too long."
 msgstr ""
-"tomo tawa mun li awen lon sewi lili. jan li awen lon ma ni lon tenpo suli "
-"ike li wile weka a."
+"tomo tawa mun li awen lon sewi lili. jan tawa mun li awen lon ma ni lon "
+"tenpo suli ike li wile weka a."
 
 #: script/ship.js:106 script/ship.js:120
 msgid "not enough alien alloy"
@@ -1563,7 +1563,7 @@ msgstr "kasi suli mute li lon kama. palisa ona li sama supa lon sewi."
 
 #: script/world.js:853
 msgid "Wanderer"
-msgstr "jan"
+msgstr "jan tawa mun"
 
 #: script/world.js:858
 msgid "The&nbsp;Village"
@@ -2127,10 +2127,9 @@ msgid "go back inside"
 msgstr "o tawa insa"
 
 #: script/events/room.js:92
-#, fuzzy
 msgid ""
 "a bundle of sticks lies just beyond the threshold, wrapped in coarse furs."
-msgstr "palisa kasi mute li lon anpa. selo soweli mute kin li lon li selo ona."
+msgstr "palisa kasi mute li lon anpa. selo soweli mute kin li lon."
 
 #: script/events/room.js:93
 msgid "the night is silent."
@@ -2349,9 +2348,8 @@ msgid "evasion"
 msgstr "tawa utala"
 
 #: script/events/room.js:570
-#, fuzzy
 msgid "precision"
-msgstr "pona utala"
+msgstr "ken pona utala"
 
 #: script/events/room.js:580
 msgid "force"
@@ -2448,7 +2446,7 @@ msgstr "insa mute la tomo li lon. kasi len li selo tomo."
 
 #: script/events/setpieces.js:57
 msgid "an old wanderer sits inside, in a seeming trance."
-msgstr "jan majuna li lon insa tomo, li awen mute."
+msgstr "jan tawa mun majuna li lon insa tomo, li awen mute."
 
 #: script/events/setpieces.js:62
 msgid "talk"
@@ -2461,8 +2459,8 @@ msgstr "jan li kama jo e kiwen lili nasa suwi."
 #: script/events/setpieces.js:74
 msgid "he speaks of once leading the great fleets to fresh worlds."
 msgstr ""
-"ona li toki. tenpo weka la kulupu jan suli li tawa mun sin. ona li lawa e "
-"tawa."
+"ona li toki. tenpo weka la kulupu suli pi jan tawa mun li tawa mun sin. ona "
+"li lawa e tawa."
 
 #: script/events/setpieces.js:75
 msgid "unfathomable destruction to fuel wanderer hungers."
@@ -2470,7 +2468,7 @@ msgstr "jan li wile moku e mun. utala en pakala pi suli mute."
 
 #: script/events/setpieces.js:76
 msgid "his time here, now, is his penance."
-msgstr "ona li awen lon ma ni tan ike ni lon tenpo lon suli."
+msgstr "tan ike ni la ona li awen lon ma ni lon tenpo lon suli."
 
 #: script/events/setpieces.js:93
 msgid "A Damp Cave"
@@ -2561,7 +2559,7 @@ msgstr "len lape li pakala li jaki."
 
 #: script/events/setpieces.js:201
 msgid "the body of a wanderer lies in a small cavern."
-msgstr "sijelo moli jan li lon tomo lili."
+msgstr "sijelo moli pi jan tawa mun li lon tomo lili."
 
 #: script/events/setpieces.js:202
 msgid "rot's been to work on it, and some of the pieces are missing."
@@ -2742,7 +2740,8 @@ msgstr "jan alasa li pilin monsuta li kama tan lupa li mu."
 
 #: script/events/setpieces.js:1039
 msgid "a man stands over a dead wanderer. notices he's not alone."
-msgstr "jan li lukin e jan moli, li kama lukin e ni: ona taso ala li lon."
+msgstr ""
+"jan li lukin e jan tawa mun moli, li kama lukin e ni: ona taso ala li lon."
 
 #: script/events/setpieces.js:1055
 msgid "scavenger had a small camp in the school."
@@ -2764,7 +2763,7 @@ msgstr "ijo pona ona o tawa jan pona."
 msgid ""
 "beneath the wanderer's rags, clutched in one of its many hands, a glint of "
 "steel."
-msgstr "jan moli la len ona la luka wan la kiwen li lon."
+msgstr "jan tawa mun moli la len ona la luka wan la kiwen li lon."
 
 #: script/events/setpieces.js:1132
 msgid "worth killing for, it seems."
@@ -2792,9 +2791,8 @@ msgid "the clinic has been ransacked."
 msgstr "ijo pona li weka tan tomo pi pona sijelo."
 
 #: script/events/setpieces.js:1226
-#, fuzzy
 msgid "only dust and stains remain."
-msgstr "ko kon en kule ike li taso."
+msgstr "ko taso li lon kon. kule jaki taso li lon sinpin."
 
 #: script/events/setpieces.js:1243
 msgid "A Ruined City"
@@ -3128,7 +3126,7 @@ msgstr "ma lili li seli suli lon tenpo suli li pakala tan ni."
 #: script/events/setpieces.js:2531
 msgid ""
 "the bodies of the wanderers that lived here are still visible in the flames."
-msgstr "sijelo pi jan ma li lon lukin lon seli."
+msgstr "sijelo pi jan tawa mun li lon lukin lon seli."
 
 #: script/events/setpieces.js:2532
 msgid "still time to rescue a few supplies."
@@ -3291,7 +3289,7 @@ msgstr "pona la jan ante li sona ala kepeken ilo."
 
 #: script/events/setpieces.js:3152
 msgid "with a little effort, it might fly again."
-msgstr "jan li pali tawa ona la, ken la ona li kama ken tawa sewi."
+msgstr "jan li pana e pali la, tawa sewi li ken kama ken."
 
 #: script/events/setpieces.js:3156
 msgid "salvage"
@@ -3388,12 +3386,12 @@ msgid "an old iron mine sits here, tools abandoned and left to rust."
 msgstr "lupa alasa kiwen majuna li lon. ilo li kama jaki tan tenpo suli."
 
 #: script/events/setpieces.js:3463
-#, fuzzy
 msgid ""
 "bleached bones are strewn about the entrance. many, deeply scored with "
 "jagged grooves."
 msgstr ""
-"palisa sijelo mute li lon nasin open. ona mute li pakala linja lon selo."
+"palisa sijelo mute li lon nasin open. selo ona mute li pakala tan luka "
+"monsuta."
 
 #: script/events/setpieces.js:3464
 msgid "feral howls echo out of the darkness."
